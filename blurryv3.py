@@ -22,9 +22,6 @@ time.sleep(2.0)
 
 fps = FPS().start()
 
-
-
-
 def find_and_blur(gray, frame): 
         # detect all faces
         rects = detector.detectMultiScale(gray, scaleFactor=1.1, 
@@ -89,15 +86,3 @@ print("[INFO] elasped time: {:.2f}".format(fps.elapsed()))
 print("[INFO] approx. FPS: {:.2f}".format(fps.fps()))
 cv2.destroyAllWindows()
 vs.stop()
-
-   
-    
-    
-
-
-
-
-
-
-
-
