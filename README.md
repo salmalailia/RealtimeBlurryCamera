@@ -10,6 +10,7 @@
 -Create a registration process
   Take multi-directional face photos of the person you wish to register
   Train the AI with those photos
+
 -Create and test the blurring code
   When viewing a registered user, it does not blur and outputs the name
   Blur unregistered users
