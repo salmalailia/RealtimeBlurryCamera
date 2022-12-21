@@ -1,5 +1,12 @@
 # RealtimeBlurryCamera on the Raspeberi Pi
 
+## Team Member
+Romain Monnier
+
+Salma Rahma Lailia
+
+신희재
+
 ## Goals
 -Create a Realtime Blurring Camera
   Vloggers and Live Streamers are on the rise these days.
