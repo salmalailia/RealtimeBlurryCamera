@@ -1,11 +1,11 @@
 # RealtimeBlurryCamera on the Raspeberi Pi
 
 ## Team Member
-Romain Monnier
+-Romain Monnier
 
-Salma Rahma Lailia
+-Salma Rahma Lailia
 
-신희재
+-신희재
 
 ## Goals
 -Create a Realtime Blurring Camera
