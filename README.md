@@ -1,4 +1,4 @@
-# RealtimeBlurryCamera on the Raspeberi Pi
+# RealtimeBlurryCamera on the Raspeberi Pi (Face Recognition)
 
 ## Team Member
 -Romain Monnier
